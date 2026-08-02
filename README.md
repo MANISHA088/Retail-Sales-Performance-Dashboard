@@ -14,7 +14,7 @@ Which areas need management's attention to improve profitability?
 
 This project uses the Sales Dataset available on Kaggle.
 
-Dataset: https://www.kaggle.com/datasets/vinothkannaece/sales-dataset/data
+Dataset: [DATA](https://github.com/MANISHA088/Retail-Sales-Performance-Dashboard/blob/main/sales_data.csv)
 
 The dataset contains around 1,000 sales transactions recorded during 2023 and includes information about:
 
@@ -107,3 +107,7 @@ Connecting Power BI to a live SQL database with scheduled refreshes to simulate 
 
 ### 🎯 Project Goal
 The goal of this project was to demonstrate an end-to-end data analytics workflow—from data exploration and SQL analysis to building an interactive Power BI dashboard. More importantly, I wanted to go beyond creating visuals and focus on turning data into insights that can support business decisions.
+
+# DEMO/ Screenshot
+Show what the dashboard looks like. 
+Example:![Dashboard Preview](https://github.com/MANISHA088/Retail-Sales-Performance-Dashboard/blob/main/Screenshot%202026-08-02%20063844.png)
